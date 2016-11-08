@@ -9,6 +9,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        System.out.println("HOLA NIÑOS");
     }
 }
 //i
+
+
+//estoy haciendo una cosa loca que sssvoy a meter en un branch
